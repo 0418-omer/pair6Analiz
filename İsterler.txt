@@ -1,0 +1,33 @@
+
+
+Kullanıcı günlük gelen maildeki  verileri  örneklem sayısına göre gruplandırabilmelidir.
+
+
+
+1-Girilen örneklem sayısına göre veriler gruplandırılacaktır.
+
+2-Girilen örneklem sayısına göre oluşan gruplardan arta kalan veriler yeni bir gruba eklenmelidir .
+
+3-Başlıklar her grupta yazmalıdır.
+
+4- Veriler her gün yenilenecektir.
+
+5-Gelen  veriler ,  örneklemeye  göre verilerin sırası bozulmayacak şekilde  sayfalandırılabilmelidir.
+
+6- Sayfa isimleri grup1 , grup2 , grup3… şeklinde artarak ilerlemelidir.
+
+7-Gelen veri sayısında sınır olmayabilir.
+
+8-Örnekleme sayısı günlük olarak değişebilir.
+
+9-Girilen örnekleme sayısının gruplara ayrılması için 1 adet buton olacaktır.
+
+10-Eğer örneklem sayısı yanlış girildi ise eski gruplar silinip güncel örnekleme sayısına göre yeni gruplar oluşturulabilmelidir.
+
+11-Verilerin bulunduğu sayfa gruplandırma işleminden sonra aynı şekilde kalacaktır.
+
+12-Örnekleme değeri 1 ile max gelen veri sayısı kadar olabilmelidir.
+
+13-Örnekleme sayısını girebilmek için bir metin kutucuğu olmalıdır.
+
+14-Örneklem değeri sayısal bir veri olmalıdır , aksi halde buton inaktif duruma gelir ve gruplama yapılamaz.
